@@ -1,0 +1,1 @@
+Epoch 0 step 20 eta 04:07:57: loss 4.996, accuracy 0.125, lr 2.000e-06
